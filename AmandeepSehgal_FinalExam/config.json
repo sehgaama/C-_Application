@@ -1,0 +1,7 @@
+{
+  "ConnectionString": {
+    "FinalExamMdf": "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\ranjeet\\source\\repos\\AmandeepSehgal_FinalExam\\AmandeepSehgal_FinalExam\\AppData\\FinalExam.mdf;Integrated Security=True;",
+    "LocalDB": "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=FinalExam;Integrated Security=True;"
+  }
+
+}
